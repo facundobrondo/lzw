@@ -1,2 +1,4 @@
-*.[pdf]
-*.[o]
+*.pdf
+*.o
+*.docx
+*.xlsx
